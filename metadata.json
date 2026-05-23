@@ -1,0 +1,6 @@
+{
+  "name": "Proptera",
+  "description": "Premium luxury property and real estate web application featuring interactive showcase, search, virtual assistant, dark mode, and sleek modern architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
